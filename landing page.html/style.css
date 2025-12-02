@@ -1,4 +1,4 @@
-body {
+body* {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     margin: 0;
@@ -120,4 +120,17 @@ body {
     border: 2px solid #cccccc;
     border-radius: 10px;
     gap: 20px;
+}
+.botom2{
+    display: block;
+    font-size: 1.7rem;
+    text-decoration: none;
+    display: flex;
+    justify-content: right;
+    color: white;
+    padding: 4px;
+    margin-top: 10px;
+    border-radius: 7px;
+    width: 6%;
+    background-color: #35424a;
 }
